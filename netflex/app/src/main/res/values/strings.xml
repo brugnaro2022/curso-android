@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">netflex</string>
+    <string name="menu_mensagem">Mensagem</string>
+    <string name="menu_volume">Menu volume</string>
+    <string name="menu_favoritos">Menu favoritos</string>
+    <string name="menu_conteudo">Menu conteudo</string>
+</resources>
